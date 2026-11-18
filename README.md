@@ -4,34 +4,29 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="9%" valign="top" align="center">
-<img src="./assets/left-sidebar.svg" width="100%" alt="Vertical sidebar: Hatsune Miku, Kasane Teto, ADO"/>
+<td width="8%" valign="top" align="center">
+<img src="./assets/left-sidebar.svg"
+     width="55"
+     height="2000"
+     alt="Hatsune Miku, Kasane Teto, ADO"/>
 </td>
-<td width="82%" valign="top">
+
+<td width="84%" valign="top">
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="100%"
-     height="100%"
-     viewBox="0 0 150 2100"
-     preserveAspectRatio="none">
-
-<img src="./assets/left-sidebar.svg"
-     width="100%"
-     height="100%"
-     alt="Hatsune Miku, Kasane Teto, ADO"/>
 # Juan Vladimir D. Barte
 
 </div>
 
-## Biograpy:
+## Biography:
 
 hello. i like games, and vocaloid and sometimes otherstuff
 
-I am really bad at coding esspecialy when it comes to thinking critically, but i never let that stop me from trying. i just wanna learn coding so i can make games or help people design games.
+I am really bad at coding especially when it comes to thinking critically, but i never let that stop me from trying. i just wanna learn coding so i can make games or help people design games.
+
 
 i will always do things ahead of people, i really like doing stuff for people before they ask me to but to only people who i think deserve that side of me. otherwise i wont interact with you anyways
 
@@ -110,19 +105,19 @@ i am an intelectual omnivore, i can go from talking straight bs to straight up s
 </div>
 
 </td>
-<td width="9%" valign="top" align="center">
-<img src="./assets/right-sidebar.svg" width="100%" alt="Vertical sidebar: ADO, Kasane Teto, Hatsune Miku, read from bottom to top"/>
+
+<td width="8%" valign="top" align="center">
+<img src="./assets/right-sidebar.svg"
+     width="55"
+     height="2000"
+     alt="ADO, Kasane Teto, Hatsune Miku"/>
 </td>
+
 </tr>
 </table>
 
 <div align="center">
 
-<img src="./assets/right-sidebar.svg"
-     width="100%"
-     height="100%"
-     alt="ADO, Kasane Teto, Hatsune Miku"/>
-
-<sub>© FMB | Built with code, a little bit of AI, if you cant beat them atleast join them.</sub>
+<sub>© FMB | Built with code, a little bit of AI, if you can't beat them at least join them.</sub>
 
 </div>
