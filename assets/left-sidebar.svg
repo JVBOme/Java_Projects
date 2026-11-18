@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="2100" viewBox="0 0 150 2100">
+  <defs>
+    <filter id="glow-left" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="line" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#39C5BB" stop-opacity=".0"/>
+      <stop offset=".5" stop-color="#7580A8" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#527BFF" stop-opacity=".0"/>
+    </linearGradient>
+  </defs>
+  <rect width="150" height="2100" fill="#090B12"/>
+  <path d="M75 30 V2070" stroke="url(#line)" stroke-width="1.5"/>
+
+  <g transform="translate(75 330) rotate(-90)">
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle"
+      font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800"
+      letter-spacing="2.2" fill="#39C5BB" filter="url(#glow-left)">HATSUNE MIKU</text>
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle"
+      font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800"
+      letter-spacing="2.2" fill="#39C5BB">HATSUNE MIKU</text>
+  </g>
+
+  <g transform="translate(75 1050) rotate(-90)">
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle"
+      font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800"
+      letter-spacing="2.2" fill="#F04452" filter="url(#glow-left)">KASANE TETO</text>
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle"
+      font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800"
+      letter-spacing="2.2" fill="#F04452">KASANE TETO</text>
+  </g>
+
+  <g transform="translate(75 1770) rotate(-90)">
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle"
+      font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800"
+      letter-spacing="2.2" fill="#527BFF" filter="url(#glow-left)">ADO</text>
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle"
+      font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800"
+      letter-spacing="2.2" fill="#527BFF">ADO</text>
+  </g>
+
+</svg>
