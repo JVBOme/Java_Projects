@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="9%" valign="top" align="center">
-<img src="assets/left-sidebar.svg" width="100%" alt="Vertical sidebar: Hatsune Miku, Kasane Teto, ADO"/>
+<img src="ITE102_BARTE_LABTASKS/left-sidebar.svg" width="100%" alt="Vertical sidebar: Hatsune Miku, Kasane Teto, ADO"/>
 </td>
 <td width="82%" valign="top">
 
@@ -103,7 +103,7 @@ i am an intelectual omnivore, i can go from talking straight bs to straight up s
 
 </td>
 <td width="9%" valign="top" align="center">
-<img src="assets/right-sidebar.svg" width="100%" alt="Vertical sidebar: ADO, Kasane Teto, Hatsune Miku, read from bottom to top"/>
+<img src="ITE102_BARTE_LABTASKS/right-sidebar.svg" width="100%" alt="Vertical sidebar: ADO, Kasane Teto, Hatsune Miku, read from bottom to top"/>
 </td>
 </tr>
 </table>
