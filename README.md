@@ -7,13 +7,13 @@
 <table>
 <tr>
 <td width="9%" valign="top" align="center">
-<img src="assets/left-sidebar.svg" width="100%" alt="Vertical sidebar: Hatsune Miku, Kasane Teto, ADO"/>
+<img src="READMECACHE/left-sidebar.svg" width="100%" alt="Vertical sidebar: Hatsune Miku, Kasane Teto, ADO"/>
 </td>
 <td width="82%" valign="top">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101020,50:24243e,100:39C5BB&height=150&section=header&text=Hello%20There!&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101020,50:24243e,100:39C5BB&height=150&section=header&text=%20&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 # Juan Vladimir D. Barte
 
@@ -103,7 +103,7 @@ i am an intelectual omnivore, i can go from talking straight bs to straight up s
 
 </td>
 <td width="9%" valign="top" align="center">
-<img src="assets/right-sidebar.svg" width="100%" alt="Vertical sidebar: ADO, Kasane Teto, Hatsune Miku, read from bottom to top"/>
+<img src="READMECACHE/right-sidebar.svg" width="100%" alt="Vertical sidebar: ADO, Kasane Teto, Hatsune Miku, read from bottom to top"/>
 </td>
 </tr>
 </table>
