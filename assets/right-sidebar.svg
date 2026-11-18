@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="2100" viewBox="0 0 150 2100">
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="4200" viewBox="0 0 150 4200">
   <defs>
     <filter id="glow-right" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
@@ -10,7 +10,7 @@
       <stop offset="1" stop-color="#527BFF" stop-opacity=".0"/>
     </linearGradient>
   </defs>
-  <rect width="150" height="2100" fill="#090B12"/>
+  <rect width="150" height="4200" fill="#090B12"/>
   <path d="M75 30 V2070" stroke="url(#line)" stroke-width="1.5"/>
 
   <g transform="translate(75 330) rotate(90)">
