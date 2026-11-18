@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="9%" valign="top" align="center">
-<img src="READMECACHE/left-sidebar.svg" width="100%" alt="Vertical sidebar: Hatsune Miku, Kasane Teto, ADO"/>
+<img src="Java_Projects/READMECACHE/left-sidebar.svg" width="100%" alt="Vertical sidebar: Hatsune Miku, Kasane Teto, ADO"/>
 </td>
 <td width="82%" valign="top">
 
