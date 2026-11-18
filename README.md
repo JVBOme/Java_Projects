@@ -76,8 +76,10 @@ i am an intelectual omnivore, i can go from talking straight bs to straight up s
 
 ###  MIDTERM
 
-- [Midterm Lab Task #1]([https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf](https://github.com/JVBOme/Java_Projects/blob/ITE102_BARTE_LABTASKS/Laboratory%20Task%20SUBMISSION.pdf)) - 2 Dimensional Array
-- [Midterm Lab Task #2]([https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf](https://github.com/JVBOme/Java_Projects/blob/ITE102_BARTE_LABTASKS/Laboratory%20Task%20SUBMISSION.pdf)) - 3 Dimensional Array
+
+- [Midterm Lab Task #1](https://github.com/JVBOme/Java_Projects/blob/ITE102_BARTE_LABTASKS/Laboratory%20Task%20SUBMISSION.pdf) - 2 Dimensional Array
+- [Midterm Lab Task #2](https://github.com/JVBOme/Java_Projects/blob/ITE102_BARTE_LABTASKS/Laboratory%20Task%20SUBMISSION.pdf) - 3 Dimensional Array
+
 
 ---
 
