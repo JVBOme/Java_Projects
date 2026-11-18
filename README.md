@@ -13,8 +13,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101020,50:24243e,100:39C5BB&height=150&section=header&text=Hello%20There!&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%"
+     height="100%"
+     viewBox="0 0 150 2100"
+     preserveAspectRatio="none">
 
+<img src="./assets/left-sidebar.svg"
+     width="100%"
+     height="100%"
+     alt="Hatsune Miku, Kasane Teto, ADO"/>
 # Juan Vladimir D. Barte
 
 </div>
@@ -110,7 +118,10 @@ i am an intelectual omnivore, i can go from talking straight bs to straight up s
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39C5BB,50:24243e,100:101020&height=100&section=footer"/>
+<img src="./assets/right-sidebar.svg"
+     width="100%"
+     height="100%"
+     alt="ADO, Kasane Teto, Hatsune Miku"/>
 
 <sub>© FMB | Built with code, a little bit of AI, if you cant beat them atleast join them.</sub>
 
