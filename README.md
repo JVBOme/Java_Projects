@@ -3,7 +3,6 @@
 <sub>hi.</sub>
 
 </div>
-<table width="100%">
 <tr>
 
 <div align="center">
@@ -102,7 +101,6 @@ I am a person who will go out of my way to get what I want, whatever it is, help
 
 </td>
 </tr>
-</table>
 
 <div align="center">
 
