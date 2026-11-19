@@ -51,11 +51,11 @@ i am an intelectual omnivore, i can go from talking straight bs to straight up s
 
 **Aspirations**
 
--Make my dream game (RPG/RTS Hybrid for now.)
--Go to Japan
--Have a Family in Japan
--Be Buried in Japan
--Have a son or daughter who will carry who i am.
+- Make my dream game (RPG/RTS Hybrid for now.)
+- Go to Japan
+- Have a Family in Japan
+- Be Buried in Japan
+- Have a son or daughter who will carry who i am.
 
 **My Personality**
 
