@@ -51,6 +51,22 @@ I am a person who will go out of my way to get what I want, whatever it is, help
 
 ---
 
+<div align="center">
+
+### CURRENTLY PLAYING IN MY HEAD
+
+<a href="https://www.youtube.com/watch?v=zsBBWBEZkFQ">
+<img src="https://img.youtube.com/vi/zsBBWBEZkFQ/maxresdefault.jpg" width="90%" alt="Ado - MIRROR music video thumbnail"/>
+</a>
+
+**Ado - MIRROR**
+
+<sub>Click the thumbnail to watch the music video. (duh)</sub>
+
+</div>
+
+---
+
 ## Programming Languages
 
 | Language | |
@@ -93,12 +109,14 @@ I am a person who will go out of my way to get what I want, whatever it is, help
 
 <div align="center">
 
-<sub>secret</sub>
+[<sub>secret</sub>](https://i.kym-cdn.com/entries/icons/mobile/000/053/166/pearto.jpg)
 
 </div>
 
 <div align="center">
 
 <sub>© FMB | Built with code, a little bit of AI, if you can't beat them at least join them.</sub>
+
+
 
 </div>
