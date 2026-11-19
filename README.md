@@ -5,14 +5,6 @@
 </div>
 <table width="100%">
 <tr>
-<td width="8%" valign="top" align="center">
-<img src="./assets/left-sidebar.svg"
-     width="55"
-     height="2000"
-     alt="Hatsune Miku, Kasane Teto, ADO"/>
-</td>
-
-<td width="84%" valign="top">
 
 <div align="center">
 
@@ -125,14 +117,6 @@ I am a person who will go out of my way to get what I want, whatever it is, help
 </div>
 
 </td>
-
-<td width="8%" valign="top" align="center">
-<img src="./assets/right-sidebar.svg"
-     width="55"
-     height="2000"
-     alt="ADO, Kasane Teto, Hatsune Miku"/>
-</td>
-
 </tr>
 </table>
 
