@@ -1,9 +1,7 @@
 <div align="center">
 
 <sub>hi.</sub>
-
 </div>
-<tr>
 
 <div align="center">
 
@@ -98,9 +96,6 @@ I am a person who will go out of my way to get what I want, whatever it is, help
 <sub>secret</sub>
 
 </div>
-
-</td>
-</tr>
 
 <div align="center">
 
