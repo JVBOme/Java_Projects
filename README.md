@@ -42,6 +42,25 @@ i am an intelectual omnivore, i can go from talking straight bs to straight up s
 - Gaming Omnivore (Warhammer,Deadlock,HOI4 i dont really have a specific prefference)
 - Yearning for the love of the game (if you lose 18 times then you win 19 more)
 
+**Education**
+
+- Primary: Marriot School
+- JHS: Lyndale Academy
+- SHS: STI
+- College: National University
+
+**Aspirations**
+
+-Make my dream game (RPG/RTS Hybrid for now.)
+-Go to Japan
+-Have a Family in Japan
+-Be Buried in Japan
+-Have a son or daughter who will carry who i am.
+
+**My Personality**
+
+I am a person who will go out of my way to get what I want, whatever it is, helping others or achieving a goal. I am tenacious and indomitable, I am also very random and eccentric but also incredibly depressive, I have really bad mood swings. my humour is very dark but also very stupid.
+
 ---
 
 <div align="center">
