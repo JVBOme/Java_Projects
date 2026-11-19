@@ -1,13 +1,5 @@
-<div align="center">
-
-<sub>hi.</sub>
-</div>
-
-<div align="center">
-
 # Juan Vladimir D. Barte
 
-</div>
 
 ## Biography:
 
@@ -93,7 +85,7 @@ I am a person who will go out of my way to get what I want, whatever it is, help
 
 <div align="center">
 
-[secret](https://i.kym-cdn.com/entries/icons/mobile/000/053/166/pearto.jpg)
+secret
 
 </div>
 
