@@ -89,11 +89,11 @@ i am an intelectual omnivore, i can go from talking straight bs to straight up s
 
 ---
 
-## ⚡ Fun Facts About Me
+## somemore things about me
 
--  I hate **semicolons**. 
--  I used to change the Command Prompt color to **green** to make myself look like a hacker. 
--  I enjoy coding after taking a sip of black coffee at night.
+-  I dont like people who dont stick to their word. 
+-  i am a chud. 
+-  I enjoy walking and imagining things.
 -  I really like women who act and look like men. 
 
 ---
