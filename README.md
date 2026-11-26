@@ -62,7 +62,7 @@ I am a person who will go out of my way to get what I want, whatever it is, help
 
 - [Midterm Lab Task #1](https://github.com/JVBOme/Java_Projects/blob/8199795e93d159a1c5c1ba3f8dd0d0cc0223f64d/Laboratory%20Task%20SUBMISSION%20Requirements%20Part%201.pdf) - 2 Dimensional Array
 - [Midterm Lab Task #2](https://github.com/JVBOme/Java_Projects/blob/8199795e93d159a1c5c1ba3f8dd0d0cc0223f64d/Laboratory%20Task%202%20SUBMISSION%20Requirements.pdf) - 3 Dimensional Array
-
+- [Midterm Lab Task #3](https://github.com/JVBOme/Java_Projects/blob/df3e4b23141340a65b0167dad925074c07039ee4/Laboratory%20Task%20SUBMISSION%20Requirements%20Part%203.pdf) - Methods and Switch case
 
 ---
 
